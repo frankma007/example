@@ -36,6 +36,7 @@
 - [Community](#community)
 - [Versioning](#versioning)
 - [Creators](#creators)
+- [Thanks](#thanks)
 - [Copyright and license](#copyright-and-license)
 
 ## Quick start
@@ -65,8 +66,6 @@ Read the [Getting started page](https://getbootstrap.com/docs/4.1/getting-starte
 [![Coverage Status](https://img.shields.io/coveralls/github/twbs/bootstrap/v4-dev.svg)](https://coveralls.io/github/twbs/bootstrap?branch=v4-dev)
 [![CSS gzip size](http://img.badgesize.io/twbs/bootstrap/v4-dev/dist/css/bootstrap.min.css?compression=gzip&label=CSS+gzip+size)](https://github.com/twbs/bootstrap/tree/v4-dev/dist/css/bootstrap.min.css)
 [![JS gzip size](http://img.badgesize.io/twbs/bootstrap/v4-dev/dist/js/bootstrap.min.js?compression=gzip&label=JS+gzip+size)](https://github.com/twbs/bootstrap/tree/v4-dev/dist/js/bootstrap.min.js)
-
-[![Sauce Labs Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
 ## What's included
 
@@ -171,6 +170,10 @@ See [the Releases section of our GitHub project](https://github.com/twbs/bootstr
 - <https://twitter.com/fat>
 - <https://github.com/fat>
 
+
+## Thanks
+[<img src="https://www.browserstack.com/images/mail/browserstack-logo-footer.png" width="120">](https://www.browserstack.com/)
+Thank you to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers.
 
 ## Copyright and license
 
