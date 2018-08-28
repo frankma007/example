@@ -172,8 +172,8 @@ See [the Releases section of our GitHub project](https://github.com/twbs/bootstr
 
 
 ## Thanks
-[<img src="https://www.browserstack.com/images/mail/browserstack-logo-footer.png" width="120">](https://www.browserstack.com/)
-Thank you to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers.
+
+[![BrowserStack Logo](https://www.browserstack.com/images/mail/browserstack-logo-footer.png)](https://www.browserstack.com/) Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
 
 ## Copyright and license
 
